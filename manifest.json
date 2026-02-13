@@ -1,7 +1,7 @@
 {
   "name": "Nawigator Rzeczywistości",
   "short_name": "Nawigator",
-  "description": "Narzędzie Transurfingu dla kierowców zawodowych.",
+  "description": "Narzędzie Transerfingu dla kierowców zawodowych.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0f172a",
